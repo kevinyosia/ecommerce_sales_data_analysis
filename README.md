@@ -33,7 +33,14 @@ Note: Raw data files are not included in this repo due to size; cleaned dataset 
 <img width="1435" height="804" alt="Order   Customer Insights" src="https://github.com/user-attachments/assets/984ccf96-b633-44ce-aa96-66bce7ebce90" />
 
 ## 📁 Repository Structure
-
+```
+├── Data/
+│   └── Cleaned/          # Cleaned dataset (CSV)
+├── notebooks/            # Data exploration scripts
+├── scripts/              # Cleaning & database loading scripts
+├── POWER BI VISUAL/      # Power BI dashboard file (.pbix)
+└── README.md
+```
 
 ## 👤 Author
 **Kevin Yosia**  
